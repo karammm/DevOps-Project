@@ -1,4 +1,30 @@
 # DevOps Project
+## Objective is to learn Devops tools like Git, Jenkins, Docker, Nagios, Selenium, Ansible, Puppet, Linux and Kubernetes. For Complete Automation Deployment process.
+
+### About Git: 
+Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+
+### About Jenkins:
+Jenkins is a free and open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.
+
+### About Docker:
+Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.
+
+### About Nagios:
+Nagios Core, formerly known as Nagios, is a free and open-source computer-software application that monitors systems, networks and infrastructure. Nagios offers monitoring and alerting services for servers, switches, applications and services.
+
+### About Selenium:
+Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language.
+
+### About Ansible:
+Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows.
+
+### About Puppet:
+In computing, Puppet is a software configuration management tool which includes its own declarative language to describe system configuration. It is a model-driven solution that requires limited programming knowledge to use. 
+
+### About Kubernetes:
+Kubernetes is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.
+
 
 1.Made 3 instance 1 for jenkins master and other for slaves
 ![How to install](/Images/1.png)
